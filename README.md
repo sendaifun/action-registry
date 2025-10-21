@@ -2,9 +2,9 @@
 
 This is a registry of Solana Actions supported by the Solana Agent Kit. 
 
-- [Solana Agent Kit](https://github.com/sendai/solana-agent-kit)
+- [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit)
 - [Solana Actions](https://solana.com/actions)
-- [Get your action supported](https://github.com/sendai/action-registry/issues/new)
+- [Get your action supported](https://github.com/sendaifun/action-registry/issues/new)
 
 ## Solana Actions
 
@@ -12,7 +12,7 @@ Using Solana Actions, you can turn any transaction into a blockchain link that c
 
 ## Solana Agent Kit
 
-[Solana Agent Kit](https://github.com/sendai/solana-agent-kit), connect any ai agents to solana protocols.
+[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit), connect any ai agents to solana protocols.
 
 All actions in this registry are supported by the Solana Agent Kit. 
 
